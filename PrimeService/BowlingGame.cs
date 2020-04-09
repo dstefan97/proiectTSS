@@ -4,12 +4,13 @@ using System.Text;
 
 namespace Prime.Services
 {
-//    The game consists of 10 frames, in each frame the player has the ability to knock down 10 pins.
-//    The score for the frame is the total number of pins knocked down + bonuses for strikes and spares.
-//    A spare is when the player knocks down all 10 pins in 2 tries.The bonus for a spare is the next roll.
-//    A strike is when the player knocks down all 10 pins in 1 try. The bonus is the next 2 rolls.
-//    In the tenth frame a player who rolls a spare / strike gets an extra roll(s) to complete the frame.
-//    No more than 3 rolls can be rolled in the 10th frame.
+   
+    //    Jocul este alcatuit din 10 faze, in fieare faza jucatorul poate darama 10 popice   
+    //    Scorul pentru fiecare faza este numarul de popice daramate + bonus pentru strik si spare  
+    //    Spare este atunci cand jucatorul darama 10 popice din 2 aruncari
+    //    Strike este atunci cand jucatorul darama 10 popice din 1 aruncare
+    //    In a 10-a faza un jucator poate sa dea 1 sau 2 aruncari in plus daca loveste un spare sau strike
+    //    Se poate arunca de maxim 3 ori in faza a 10-a
     public class BowlingGame
     {
         private readonly int[] _rolls = new int[21];

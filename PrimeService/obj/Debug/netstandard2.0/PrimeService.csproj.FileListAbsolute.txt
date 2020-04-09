@@ -15,3 +15,12 @@ C:\Users\stefan\Downloads\unit-testing-using-nunit\PrimeService\obj\Debug\netsta
 C:\Users\stefan\Downloads\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
 C:\Users\stefan\Downloads\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb
 C:\Users\stefan\Downloads\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\stefan\Source\Repos\proiectTSS\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
+C:\Users\stefan\Source\Repos\proiectTSS\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
+C:\Users\stefan\Source\Repos\proiectTSS\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
+C:\Users\stefan\Source\Repos\proiectTSS\PrimeService\obj\Debug\netstandard2.0\PrimeService.csprojAssemblyReference.cache
+C:\Users\stefan\Source\Repos\proiectTSS\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\stefan\Source\Repos\proiectTSS\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\stefan\Source\Repos\proiectTSS\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+C:\Users\stefan\Source\Repos\proiectTSS\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
+C:\Users\stefan\Source\Repos\proiectTSS\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb

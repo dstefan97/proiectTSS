@@ -4600,11 +4600,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stefan\\Downloads\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\stefan\\Source\\Repos\\proiectTSS\\PrimeService.Tests\\PrimeService.Tests.csproj",
       "projectName": "PrimeService.Tests",
-      "projectPath": "C:\\Users\\stefan\\Downloads\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj",
+      "projectPath": "C:\\Users\\stefan\\Source\\Repos\\proiectTSS\\PrimeService.Tests\\PrimeService.Tests.csproj",
       "packagesPath": "C:\\Users\\stefan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stefan\\Downloads\\unit-testing-using-nunit\\PrimeService.Tests\\obj\\",
+      "outputPath": "C:\\Users\\stefan\\Source\\Repos\\proiectTSS\\PrimeService.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4623,8 +4623,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\stefan\\Downloads\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj": {
-              "projectPath": "C:\\Users\\stefan\\Downloads\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj"
+            "C:\\Users\\stefan\\Source\\Repos\\proiectTSS\\PrimeService\\PrimeService.csproj": {
+              "projectPath": "C:\\Users\\stefan\\Source\\Repos\\proiectTSS\\PrimeService\\PrimeService.csproj"
             }
           }
         }

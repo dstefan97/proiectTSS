@@ -161,7 +161,7 @@ namespace Prime.UnitTests.Services
             RollStrike();
             RollStrike();
             RollStrike();
-            Console.WriteLine("Roll Total - {0}, Result - {1}", 60, _game.Score());
+            Console.WriteLine("Roll Total - {0}, Result - {1}", 30, _game.Score());
             Assert.That(30, Is.EqualTo(_game.Score()));
 
         }

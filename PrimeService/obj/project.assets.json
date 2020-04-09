@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stefan\\Downloads\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
+      "projectUniqueName": "C:\\Users\\stefan\\Source\\Repos\\proiectTSS\\PrimeService\\PrimeService.csproj",
       "projectName": "PrimeService",
-      "projectPath": "C:\\Users\\stefan\\Downloads\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
+      "projectPath": "C:\\Users\\stefan\\Source\\Repos\\proiectTSS\\PrimeService\\PrimeService.csproj",
       "packagesPath": "C:\\Users\\stefan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stefan\\Downloads\\unit-testing-using-nunit\\PrimeService\\obj\\",
+      "outputPath": "C:\\Users\\stefan\\Source\\Repos\\proiectTSS\\PrimeService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

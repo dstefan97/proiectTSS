@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+0FMjcNI0J4f8acweubJ+YeG90LNhcMGLWpFogr9nbrtg+Vm6j0XS9uMtUJU6pn4hXjy2Y4a876PknixSRu7aQ==",
+  "dgSpecHash": "PRIkFGlJR/SwRy5CoDoJausnNmg8TG4CiLtAcUkqBMGrIZ2CR+zJcp3+3BFzNtnCKM4akFEO9xgysDL4znQ4LQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stefan\\Downloads\\unit-testing-using-nunit\\PrimeService.Tests\\PrimeService.Tests.csproj",
+  "projectFilePath": "C:\\Users\\stefan\\Source\\Repos\\proiectTSS\\PrimeService.Tests\\PrimeService.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stefan\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
